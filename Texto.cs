@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.IO.StreamReader;
+using System.IO;
 
 class Texto {
 
@@ -12,8 +12,7 @@ class Texto {
          */
         public static int[] procText(string path) 
         {
-            int[] arr= new Array[100];
-            StreamReader sr = new StreamReader(path);
+            int[] array1 = new int[] { };
             try 
             {
                 if (File.Exists(path)) 
@@ -21,18 +20,21 @@ class Texto {
                 File.Delete(path);
                 }
 
-                using (StreamReader sr = new StreamReader(path)) 
+                using (StreamReader st = new StreamReader(path)) 
                 {
-                    while (sr.Peek() >= 0) 
+                    string s="";
+                    string[] array2 = new string[] {};
+                    while (st.Peek() >= 0) 
                     {
-                        Console.WriteLine(sr.ReadLine());
+                        s=st.ReadLine();
                     }
+                    array2=s.Split(':');
                 }
             } 
             catch (Exception e) 
             {
                 Console.WriteLine("The process failed: {0}", e.ToString());
             }
-            return arr;
+            return array1;
         }
 }

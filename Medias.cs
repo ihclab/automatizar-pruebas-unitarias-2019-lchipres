@@ -46,16 +46,20 @@ namespace AutomatizarPruebasUnitarias {
 
         /**
          * Este método no está implementado.
-         
-        public static double mediaArmonica(params int[] vals) 
+         */
+        public static void mediaArmonica(params int[] vals) 
         {
-			double media=0;
-			
-			return media;
-        }
-        */
+            try{
 
-        public static double sumaArray(params int[] vals)
+            }
+            catch(Exception e){
+                Console.WriteLine("Message:\n  Este metodo aun no esta implementado\n", e.Message);
+                throw e;
+            }
+        }
+        
+
+        private static double sumaArray(params int[] vals)
         {
             double sum=0;
 
@@ -65,9 +69,9 @@ namespace AutomatizarPruebasUnitarias {
             }
 
             return sum;
-        }
+        }//Suma de valores en array
 
-        public static double multArray(params int[] vals)
+        private static double multArray(params int[] vals)
         {
             double mult=1;
 
@@ -77,6 +81,6 @@ namespace AutomatizarPruebasUnitarias {
             }
 
             return mult;
-        }
+        }//Multiplicacion de valores en un array
     }
 }
