@@ -1,0 +1,11 @@
+C:\Users\Hpnotebook\Desktop\automatizar-pruebas-unitarias-2019-lchipres\obj\Debug\netcoreapp2.0\automatizar-pruebas-unitarias-2019-lchipres.csprojAssemblyReference.cache
+C:\Users\Hpnotebook\Desktop\automatizar-pruebas-unitarias-2019-lchipres\obj\Debug\netcoreapp2.0\automatizar-pruebas-unitarias-2019-lchipres.csproj.CoreCompileInputs.cache
+C:\Users\Hpnotebook\Desktop\automatizar-pruebas-unitarias-2019-lchipres\obj\Debug\netcoreapp2.0\automatizar-pruebas-unitarias-2019-lchipres.AssemblyInfoInputs.cache
+C:\Users\Hpnotebook\Desktop\automatizar-pruebas-unitarias-2019-lchipres\obj\Debug\netcoreapp2.0\automatizar-pruebas-unitarias-2019-lchipres.AssemblyInfo.cs
+C:\Users\Hpnotebook\Desktop\automatizar-pruebas-unitarias-2019-lchipres\bin\Debug\netcoreapp2.0\automatizar-pruebas-unitarias-2019-lchipres.deps.json
+C:\Users\Hpnotebook\Desktop\automatizar-pruebas-unitarias-2019-lchipres\bin\Debug\netcoreapp2.0\automatizar-pruebas-unitarias-2019-lchipres.runtimeconfig.json
+C:\Users\Hpnotebook\Desktop\automatizar-pruebas-unitarias-2019-lchipres\bin\Debug\netcoreapp2.0\automatizar-pruebas-unitarias-2019-lchipres.runtimeconfig.dev.json
+C:\Users\Hpnotebook\Desktop\automatizar-pruebas-unitarias-2019-lchipres\bin\Debug\netcoreapp2.0\automatizar-pruebas-unitarias-2019-lchipres.dll
+C:\Users\Hpnotebook\Desktop\automatizar-pruebas-unitarias-2019-lchipres\bin\Debug\netcoreapp2.0\automatizar-pruebas-unitarias-2019-lchipres.pdb
+C:\Users\Hpnotebook\Desktop\automatizar-pruebas-unitarias-2019-lchipres\obj\Debug\netcoreapp2.0\automatizar-pruebas-unitarias-2019-lchipres.dll
+C:\Users\Hpnotebook\Desktop\automatizar-pruebas-unitarias-2019-lchipres\obj\Debug\netcoreapp2.0\automatizar-pruebas-unitarias-2019-lchipres.pdb

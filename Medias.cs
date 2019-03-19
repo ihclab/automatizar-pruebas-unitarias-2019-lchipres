@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.math;
+
 
 namespace AutomatizarPruebasUnitarias {
     
@@ -46,13 +46,14 @@ namespace AutomatizarPruebasUnitarias {
 
         /**
          * Este método no está implementado.
-         */
+         
         public static double mediaArmonica(params int[] vals) 
         {
 			double media=0;
 			
 			return media;
         }
+        */
 
         public static double sumaArray(params int[] vals)
         {
